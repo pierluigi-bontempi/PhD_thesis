@@ -5,7 +5,7 @@
 The materials in this folder pertain to Chapter 5 of the PhD thesis, titled "Unintentional expressiveness due to the biomechanical dimension: a Machine Learning-based modelling approach." 
 
 The Jupyter notebook 1-From_MIDI_to_CSV.ipynb is dedicated to generating a .csv file by parsing an input MIDI file. 
-The Jupyter notebook 2-Descriptive_statistics_and_prediction_models.ipynb is focused on descriptive statistics for the dataset and building predictive models. 
+The Jupyter notebook 2-Descriptive_statistics_and_predictive_models.ipynb is focused on descriptive statistics for the dataset and building predictive models. 
 
 The MIDI files were generated from audio recordings, as detailed in the thesis. 
 
