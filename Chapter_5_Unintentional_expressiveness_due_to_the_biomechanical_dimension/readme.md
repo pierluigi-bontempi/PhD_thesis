@@ -9,7 +9,7 @@ The Jupyter notebook 2-Descriptive_statistics_and_prediction_models.ipynb is foc
 
 The MIDI files were generated from audio recordings, as detailed in the thesis. 
 
-For convenience, the generated .csv files from the MIDI files are also included in this folder. 
+This folder also includes the generated .csv files from the MIDI files, complete with data on fingering and articulation/expressive techniques. 
 
 ## Table of Contents 
 
