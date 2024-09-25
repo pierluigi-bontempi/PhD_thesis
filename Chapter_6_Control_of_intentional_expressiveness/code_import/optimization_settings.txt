@@ -1,0 +1,24 @@
+//-------------------------configuration
+
+//hand and comfort 
+
+SP_max = [1,1,2]; //maximum spread for finger 2, 3, and 4 (with respect to their base position, i.e., position wrt index finger)
+f_lb = 5; //lower fret of the handy interval
+f_ub = 12; //upper fret of the handy interval
+timePerFret = 20; //(constant) time in millisec to move the hand from a fret to the next or the preceeding
+
+//discomfort converting factors
+
+d_PC = 40; 	//position change
+d_SC = 20; 	//string change
+d_HS = 20; 	//hand spread
+d_DH = 60; 	//distance from the handy position
+d_NO = 40; 	//number of notes played on open stringsn\
+
+//opt preferences [each value >= 0, sum = 1]
+
+alpha_PC = 0.2; //position change
+alpha_SC = 0.1; //string change
+alpha_HS = 0.2; //hand spread
+alpha_DH = 0.3; //distance from the handy position
+alpha_NO = 0.2; //number of notes played on open strings
