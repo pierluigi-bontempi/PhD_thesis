@@ -1,4 +1,4 @@
-# An innovative computer-based model for the generation of expressive lead guitar performances (PhD Thesis) 
+# An innovative computer-based model for the generation of expressive lead guitar performances (PhD Thesis, by Pierluigi Bontempi (Centro di Sonologia Computazionale, Department of Information Engineering, University of Padua) 
 
 ## Description 
 
