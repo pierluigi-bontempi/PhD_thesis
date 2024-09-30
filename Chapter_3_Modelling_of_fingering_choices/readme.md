@@ -20,7 +20,8 @@ To run these notebooks, the following Python packages are required:
 
 - mido 1.3.0 
 - pandas 2.0.3 
-- numpy 1.24.3 
+- numpy 1.24.3
+- scipy 1.11.1
 
 ## License 
 
