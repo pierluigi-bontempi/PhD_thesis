@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings version="2">
+  <category name="cplex">
+    <setting name="tilim" value="600.0"/>
+    <setting name="lbheur" value="true"/>
+    <setting name="multiobjdisplay" value="2"/>
+  </category>
+  <category name="run">
+    <setting name="run_engineexportextension" value="lp"/>
+  </category>
+</settings>
