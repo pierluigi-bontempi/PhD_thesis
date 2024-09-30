@@ -2,14 +2,10 @@
 
 ## Description 
 
-The materials in this folder pertain to Chapter 5 of the PhD thesis, titled "Modelling of fingering choices." 
+The materials in this folder pertain to Chapter 3 of the PhD thesis, titled "Modelling of fingering choices." 
 
-The Jupyter notebook 1-From_MIDI_to_CSV.ipynb is dedicated to generating a .csv file by parsing an input MIDI file. 
-The Jupyter notebook 2-Descriptive_statistics_and_predictive_models.ipynb is focused on descriptive statistics for the dataset and building predictive models. 
-
-The MIDI files were generated from audio recordings, as detailed in the thesis. 
-
-This folder also includes the generated .csv files from the MIDI files, complete with data on fingering and articulation/expressive techniques. 
+The Jupyter notebook From_MIDI_to_DF_and_CPLEX.ipynb is dedicated to generating a .csv file by parsing an input MIDI file. It also prints the data required for the subsequent use of CPLEX to generate the optimal fingering. 
+The CPLEX folder contains the model (.mod), an example of input data (.dat) and side files for the use of the model in CPLEX  (IBM ILOG CPLEX Optimization Studio is required). 
 
 ## Table of Contents 
 
@@ -24,10 +20,6 @@ To run these notebooks, the following Python packages are required:
 - mido 1.3.0 
 - pandas 2.0.3 
 - numpy 1.24.3 
-- matplotlib 3.7.2 
-- joblib 1.2.0 
-- tensorflow 2.17.0 
-- scikit-learn 1.5.1 
 
 ## License 
 
