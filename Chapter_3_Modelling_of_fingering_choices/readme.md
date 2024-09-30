@@ -6,6 +6,7 @@ The materials in this folder pertain to Chapter 3 of the PhD thesis, titled "Mod
 
 The Jupyter notebook From_MIDI_to_DF_and_CPLEX.ipynb is dedicated to generating a .csv file by parsing an input MIDI file. It also prints the data required for the subsequent use of CPLEX to generate the optimal fingering. 
 The CPLEX folder contains the model (.mod), an example of input data (.dat) and side files for the use of the model in CPLEX  (IBM ILOG CPLEX Optimization Studio is required). 
+dat_generator.py is a Python script capable of automatically generating melodies, together with articulations and expressive techniques required for each note. It is used to test the second version of the fingering generation system, currently under development (minor differencies between the .dat files required for the first and second version of the system are present).
 
 ## Table of Contents 
 
